@@ -5,6 +5,13 @@
 
 body {
   background-color: lightblue;
+  background: url("background.jpg");
+  background-size: 13000px 750px;
+  /* prothom ta width porer ta height eta korle boro dekhabe na  */
+  background-repeat: no-repeat;
+  /* eta korle bar bar repeat hbe na */
+  background-attachment: fixed;
+  /* scroll dile backgroud shoho scroll hbe  */
 }
 p {
   color: yellow;
@@ -21,7 +28,6 @@ h3 {
   color: orange;
 }
 h1,
-h3,
-p {
+h3 {
   background-color: orchid;
 }

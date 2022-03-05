@@ -1,0 +1,27 @@
+/* body {
+  background-color: lemonchiffon;
+  border: 2px solid black;
+} */
+
+body {
+  background-color: lightblue;
+}
+p {
+  color: yellow;
+}
+h1 {
+}
+h3 {
+  color: red;
+}
+#second-paragraph {
+  color: blue;
+}
+.orange {
+  color: orange;
+}
+h1,
+h3,
+p {
+  background-color: orchid;
+}
